@@ -7,6 +7,7 @@
 
 1. Python3
 2. Keyboard
+3. js2py
 
 ## 构建步骤
 
@@ -17,7 +18,7 @@ git clone https://github.com/This-is-XiaoDeng/XWebServer-Plus.git
 2. 安装 Python3
 3. 安装KeyBoard
 ```bash
-pip install keyboard
+pip install keyboard js2py
 ```
 
 ## 使用方法
